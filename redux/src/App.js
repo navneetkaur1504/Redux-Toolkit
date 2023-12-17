@@ -5,7 +5,13 @@ import {BrowserRouter} from 'react-router-dom';
 function App() {
   return (
     <div classname="App"> 
-    <BrowserRouter></BrowserRouter>
+    <BrowserRouter>
+
+    <Routes>
+      <Route></Route>
+    </Routes>
+    
+    </BrowserRouter>
     
     </div>
 
